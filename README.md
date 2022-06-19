@@ -1,16 +1,4 @@
-# openmmi
+Please read the global README in the .github repository. This README is currently used for screenshots only:
 
-The official OpenMMI application
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1655651403](https://user-images.githubusercontent.com/580758/174487826-4743e0d4-73a3-44de-900a-4df81fe252e4.png)
+![Screenshot_1655651406](https://user-images.githubusercontent.com/580758/174487829-b7cdce9a-9198-4c82-91da-4c7b88e3c188.png)
